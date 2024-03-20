@@ -30,13 +30,13 @@ personnelles déjà acquises.
 
 > Rappel : Chaque question donne lieu à **une unique** page de réponse dans le dossier [`answers/`](answers/).
 
-### 1. [PHP] Comment une classe hérite-t-elle d'une autre classe ? Est-il possible d'hériter de plusieurs classes, si oui comment ?
+### 1. 🐘 Comment une classe hérite-t-elle d'une autre classe ? Est-il possible d'hériter de plusieurs classes, si oui comment ?
 
 1. Créez le fichier `answers/01.md`.
 2. Écrivez votre réponse.
 3. ⚠️ Du code PHP est attendu !
 
-### 2. [PHP] Comment une classe implémente une interface ? Est-il possible d'implémenter de plusieurs interfaces, si oui comment ?
+### 2. 🐘 Comment une classe implémente une interface ? Est-il possible d'implémenter de plusieurs interfaces, si oui comment ?
 
 1. Créez le fichier `answers/02.md`.
 2. Écrivez votre réponse.
@@ -52,7 +52,7 @@ personnelles déjà acquises.
 1. Créez le fichier `answers/04.md`.
 2. Écrivez votre réponse.
 
-### 5. Donnez un exemple de design pattern de création (nom du design pattern + code d'exemple)
+### 5. 🐘 Donnez un exemple de design pattern de création (nom du design pattern + code d'exemple)
 
 1. Créez le fichier `answers/05.md`.
 2. Écrivez votre réponse.
